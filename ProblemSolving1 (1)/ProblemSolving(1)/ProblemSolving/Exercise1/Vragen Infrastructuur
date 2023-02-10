@@ -1,0 +1,21 @@
+Vragen, Antwoorden, Typevraag, Optie1, Optie2, Optie3, Optie4
+Waarvoor staat de afkorting SQL?, Structured Query Language,Gesloten,nvt,nvt,nvt,nvt
+Waarvoor staat RPO?, Recovery point objective,Gesloten,nvt,nvt,nvt,nvt
+Waarvoor staat RTO?, Recovery time objective,Gesloten,nvt,nvt,nvt,nvt
+True or False? Het commando om MySQL op te starten is ‘sudo systemctl start mysql’,True,TrueOrFalse,nvt,nvt,nvt,nvt
+Waarvoor staat SMART, Specific - Measurable - Achievable - Realistic - Timeously,Open,nvt,nvt,nvt,nvt
+Hoeveel bits is 1 Kilobyte?, 8 x 1024 = 8192,Gesloten,nvt,nvt,nvt,nvt
+Wat is een RAID systeem?,C,Meerkeuze, A. Een systeem dat data encypt,B. Harde schijven die niet samen kunnen werken,C. Harde schijven die zo geconfigureerd zijn dat ze samenwerken,D. Een systeem dat zo geconfigureerd is zodat de harde schijven automatisch een backup maken
+Waar staat de I voor in BIV classificatie?,A,Meerkeuze,A. Integriteit,B. Intact,C. Informative,D. Intel
+Welke firewalls zijn er?,Host based/ Network based firewalls,Open,nvt,nvt,nvt,nvt
+True or False? IDS kan alleen monitoren,True,TrueOrFalse,nvt,nvt,nvt,nvt
+Deel van het OS wat direct toegang heeft tot de hardware,Kernel,Gesloten,nvt,nvt,nvt,nvt
+Programma om commando’s te geven aan het OS, Shell/Powershell,Open,nvt,nvt,nvt,nvt
+True or False? Een ubuntu server heeft geen GUI,True,TrueOrFalse,nvt,nvt,nvt,nvt
+True or False? Een ubuntu desktop heeft een GUI,True,TrueOrFalse,nvt,nvt,nvt,nvt
+Hoe worden Applicaties ook wel genoemd?, Apps / Programma’s of software,Open,nvt,nvt,nvt,nvt
+Wat is het commando om een directory te maken,mkdir,Gesloten,nvt,nvt,nvt,nvt
+Wat gebrruik je om files en dir’s te listen	op windows,command prompt,Open,nvt,nvt,nvt,nvt
+Wat is de rol van een DHCP, uitdelen IP-adressen,Open,nvt,nvt,nvt,nvt
+Wat doet een DNS, Omzetten van namen naar IP-adressen in netwerk,Open,nvt,nvt,nvt,nvt
+Welke is direct gekoppeld aan een Virtuele Machine. NAS/DAS?,DAS,Gesloten,nvt,nvt,nvt,nvt

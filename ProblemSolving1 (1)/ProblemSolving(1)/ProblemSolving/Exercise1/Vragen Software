@@ -1,0 +1,17 @@
+Vragen, Antwoorden, Typevraag, Optie1, Optie2, Optie3, Optie4
+Wat is het verschil tussen PrintLine en Print?,Bij PrintLine maakt hij elke keer een nieuwe lijn aan bij de andere niet,Open,nvt,nvt,nvt,nvt
+Een type Software Life Cycle Activity waarbij wordt bepaald of de voorgestelde ontwikkeling de moeite waard is,Haalbaarheid,Gesloten,nvt,nvt,nvt,nvt
+Welke van volgende zijn voorbeelden van traditionele procesmodellen?,B,Meerkeuze,A) Spiral - XP - Agile,B) Waterfall - Incremental - Spiral,C) Waterfall - XP - Spiral,D) Geen van de bovenstaande
+Wat is het goede type variabele voor deze waarde: 12?,Integer,Gesloten,nvt,nvt,nvt,nvt
+Wat is het goede type variabele voor deze waarde: A?,Character,Gesloten,nvt,nvt,nvt,nvt
+Welke methode gebruik je om een random getal te krijgen tussen twee waarden in?,getRandomValueBetween,Gesloten,nvt,nvt,nvt,nvt
+Wat is de betekenis van: ||?,or,Gesloten,nvt,nvt,nvt,nvt
+Welke type heeft een arraylist als het alleen hele getallen bevat?,Integer,Gesloten,nvt,nvt,nvt,nvt
+True or False? De array list is correct: ArrayList<int> numbers = new ArrayList ?,False,TrueOrFalse,nvt,nvt,nvt,nvt
+Wat zijn naast CsvReader andere methode om een CsvFile in te lezen?,BufferedReader of Scanner,Open,nvt,nvt,nvt,nvt
+Waar staat && voor?,and,Gesloten,nvt,nvt,nvt,nvt
+Wat is het type van de methode als het niet per se return moet bevatten?,Void,Gesloten,nvt,nvt,nvt,nvt
+True or False? Een array mag alleen integers bevatten?,False,TrueOrFalse,nvt,nvt,nvt,nvt
+Hoe worden de datatypen genoemdd die met kleine letters geschreven worden? Zoals bijvoorbeeld: double, int, etc,Primitieve datatypen,Open,nvt,nvt,nvt,nvt
+Wat is het teken voor een incrementer?,++,Gesloten,nvt,nvt,nvt,nvt
+Wat is het teken voor een decrementer?,--,Gesloten,nvt,nvt,nvt,nvt
